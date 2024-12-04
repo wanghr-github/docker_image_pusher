@@ -4,5 +4,6 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-eclipse-temurin:17-jre
-node:17.3.0
+#eclipse-temurin:17-jre
+#node:17.3.0
+openjdk:8u342
